@@ -99,7 +99,7 @@ def Mylogo():
               |___/
 \033[00m
      }\033[01;31m-------------------------------------------\033[00m{
- }\033[01;31m----------------> \033[01;32mYOUR OWN SERVER \033[01;31m<----------------\033[00m{
+ }\033[01;31m----------------> \033[01;32mEntherNet SERVER \033[01;31m<----------------\033[00m{
      }\033[01;31m-------------------------------------------\033[00m{''')
 
 
@@ -136,7 +136,7 @@ def ab():
     Mylogo()
     print('''
       \033[1;36m Tool Name   :-     \033[0;33mMyServer
-      \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
+      \033[1;36m Author      :-     \033[0;33mEnthernet Code
       \033[1;36m Powered By  :-     \033[0;33mAex Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost
@@ -150,7 +150,7 @@ def ab():
     Mylogo()
     print('''
           \033[1;36m Tool Name   :-     \033[0;33mMyServer
-          \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
+          \033[1;36m Author      :-     \033[0;33mEnthernet Code
           \033[1;36m Powered By  :-     \033[0;33mAex Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost server.

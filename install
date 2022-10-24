@@ -2,7 +2,7 @@
 # Tool Name :- MyServer
 # Date :- 23/5/2018 - 22/July/2019
 
-figlet -c -f slant Esther❤️
+figlet -c -f slant Enthernet
 
 main() {
        if [ -e  /usr/lib/sudo ];then
